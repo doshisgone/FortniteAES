@@ -91,3 +91,18 @@ Most of these were taken from [this pastebin](https://pastebin.com/raw/SCWdTWbj)
 | 12.50             | 0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C    |
 | 12.60             | 0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C    |
 
+## Season 13
+| Version           | Key                                                                   |                        
+| ----------------- | --------------------------------------------------------------------- | 
+| 13.00             | 0x2ba4708c17abf803ab821c0c89fa1cf3dfe7aa91d526d2e11526bc1ac4e34d13    |
+| 13.20             | 0x7f851d7e72c27cb0bfd76878e249801373dec3c40707af9a0c93fd7fc5153dbf    |
+| 13.30             | 0x642ca35c21741bb86feb40ce220693b60b04eea685285e0a2d553d4631fd2aec    |
+| 13.40             | 0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D    |
+
+## Season 14
+| Version           | Key                                                                   |                        
+| ----------------- | --------------------------------------------------------------------- | 
+| 14.00             | 0x229A785CCE84A6F149BFAE69F5AD742983AA3504149A75F60313A1296B917763    |
+| 14.10             | 0xF4C2D5B9609F82224672BF4171C46E9D36001338520AF04B8F95593562D5CC9D    |
+| 14.20             | 0x0412F93C67062E037A33EF26935CE80DEE945263F42D80FBDA0AB6A51B1D2805    |
+| 14.30             | 0x3440AB1D1B824905842BE1574F149F9FC7DBA2BB566993E597402B4715A28BD5    |
