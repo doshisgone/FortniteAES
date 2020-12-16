@@ -6,3 +6,4 @@ If you find a non documented AES key, please add it here!
 ## Quick Links
 - [Main AES Keys](https://github.com/NotFakeAdam/FortniteAES/tree/main/AES%20Keys)
 - [Dynamic AES Keys](https://github.com/NotFakeAdam/FortniteAES/tree/main/AES%20Keys/Dynamic%20AES%20Keys)
+- [Manifest Files](https://github.com/NotFakeAdam/FortniteAES/tree/main/Manifest%20Files)
