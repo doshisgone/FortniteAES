@@ -1,5 +1,5 @@
 # 7.10 Dynamic Keys
-AES Keys used to unlock dynamic paks for 7.10
+AES Keys used to decrypt dynamic pak chunks on 7.10
 
 | Pakchunk          | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ AES Keys used to unlock dynamic paks for 7.10
 | 1015              | 0x64315511AEF26AEEB585CD5B6B9C4D1AD61D67ECA27FB5E013BF410562253C9D    |
 
 # 8.40 Dynamic Keys
-AES Keys used to unlock dynamic paks for 8.40
+AES Keys used to decrypt dynamic pak chunks on 8.40
 
 | Pakchunk          | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
@@ -39,16 +39,16 @@ AES Keys used to unlock dynamic paks for 8.40
 | 1011              | 0x396228A5B0787F16A86E87CF23D945F619FA04F1BD3552E9E0E77AD6E429A5FA    |
 
 # 9.10 Dynamic Keys
-AES Keys use to unlock dynamic paks for 9.10
+AES Keys used to decrypt dynamic pak chunks on 9.10
 
 
 
 # 9.40 Dynamic Keys
-AES Keys use to unlock dynamic paks for 9.40
+AES Keys used to decrypt dynamic pak chunks on 9.40
 
 
 # 10.40 Dynamic Keys
-AES Keys used to unlock dynamic paks for 10.40
+AES Keys used to decrypt dynamic pak chunks on 10.40
 
 | Pakchunk          | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
@@ -62,7 +62,7 @@ AES Keys used to unlock dynamic paks for 10.40
 | 1007              | 0x80088B989C6BE056C47FF2F5D2C8078CE2C4F03132EE461DB64EC325C8233D13    |
 
 # 13.40 Dynamic Keys
-AES Keys used to unlock dynamic paks for 13.40
+AES Keys used to decrypt dynamic pak chunks on 13.40
 
 | Pakchunk          | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
