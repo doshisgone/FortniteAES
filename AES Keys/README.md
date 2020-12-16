@@ -1,7 +1,7 @@
 # Main Keys
-AES keys that unlock the main files.
+AES keys that decrypt main pak files.
 
-Most of these were grabbed from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Bizzfarts & 0x41414141!
+Most of these were taken from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Bizzfarts & 0x41414141!
 
 ## Season 3
 | Version           | Key                                                                   |
