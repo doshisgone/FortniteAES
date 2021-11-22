@@ -3,6 +3,16 @@ AES keys that decrypt main pak files.
 
 Most of these were taken from [this pastebin](https://pastebin.com/raw/SCWdTWbj), thanks to Bizzfarts & 0x41414141
 
+## Season 1
+| Version           | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 1.xx              | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L    |
+
+## Season 2
+| Version           | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 2.xx              | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4    |
+
 ## Season 3
 | Version           | Key                                                                   |
 | ----------------- | --------------------------------------------------------------------- |
@@ -18,12 +28,13 @@ Most of these were taken from [this pastebin](https://pastebin.com/raw/SCWdTWbj)
 ## Season 5
 | Version           | Key                                                                   |                        
 | ----------------- | --------------------------------------------------------------------- | 
-| 5.00 - 5.10       | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A    |
+| 5.00 + 5.10       | 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A    |
 
 ## Season 6
 | Version           | Key                                                                   |                        
 | ----------------- | --------------------------------------------------------------------- | 
 | 6.00              | 0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B    |
+| 6.02              | 0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B    |
 | 6.10              | 0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583    |
 | 6.20              | 0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A    |
 | 6.21              |                                                                       |
@@ -115,3 +126,38 @@ Most of these were taken from [this pastebin](https://pastebin.com/raw/SCWdTWbj)
 | ----------------- | --------------------------------------------------------------------- | 
 | 15.00             | 0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2    |
 | 15.10             | 0x7FE21F0B0D2C00867CD7B6DA553D0B6B00CFAF66E0BBB8D5365672AFB442E8EE    |
+| 15.20             | 0x36983D73A17CAF253F9D1A322A79D6DC53D8E81B661B7564343F41D4835275D5    |
+| 15.21             | 0xC29127AF7A083D2881978B13DB29B9C2407E06E3186B16DFE55ADBF93E8C3252    |
+| 15.30             | 0x44034A9FFA18B1BF680B3BD22784CDCDA76B8A0CF1F2DD333FA0B7C0A5BD92A0    |
+| 15.40             | 0x67BA1ACFB49BE607B053FF06173B7595912C91AEDB9C59418713823FE335FBA4    |
+| 15.50             | 0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A    |
+
+## Season 16
+| Version           | Key                                                                   |                        
+| ----------------- | --------------------------------------------------------------------- | 
+| 16.00             | 0xD79DD62584A7401841F80C070F8B8B405A100F51511E918ABF4EF2BB981BCA0A    |
+| 16.10             | 0xFE478B39DF1B1D4E8D8DFD38272F216DBE933E7F80ADCC45DC4108D70428F37D    |
+| 16.20             | 0x1522C5C59FD8B9964F10B23DD55BB0255F51D8ABEF1CE7B6BBBBE3239AE18929    |
+| 16.30             | 0xF941D9809A67D9BD104273E3C649F4395B6B6A874D16515F404B50D6A9FFA5A4    |
+| 16.40             | 0x87FBEB2D67828EDA151C34B330D0C24F4A364243314CE53AB52475490D6CE142    |
+| 16.50             | 0x7412E4B98E3CEB374FBF9EB5654A5D7B785B18E3A997FAF8D22EFEEA00DF851E    |
+
+## Season 17
+| Version           | Key                                                                   |                        
+| ----------------- | --------------------------------------------------------------------- | 
+| 17.00             | 0x840A3C61B7BA7FDC58EAB092AC9F29D23229DA63C417F2F0ADD69F30F1B6980D    |
+| 17.10             | 0x008F96D1CFC625479995F4ED584ACBE709C1F88E7417DAEBFB192C767F7AC84D    |
+| 17.20             | 0x447BBFD835ADFFF5BE68CFE5D93BF3A27A4641656A8C7F7F5051104F6C73E25E    |
+| 17.30             | 0x7DD830C5ACC92FE26653003ABECA10606F3492026A2C971283B2FA6B42DE8422    |
+| 17.40             | 0xAEEDAAEFB7C3FE1BD8EBCBC60802D494FAE4687B32A1E1D2E58D719372187381    |
+| 17.50             | 0x3FE5C589D219E71EE15FEB8FA9BC6B6224BB58AA826A0FA1D997D92E0D8DB23A    |
+
+## Season 18
+| Version           | Key                                                                   |                        
+| ----------------- | --------------------------------------------------------------------- | 
+| 18.00             | 0x26CD203A3B9D9163BE126BFD09910594FE7A322CE0103E6B7DD8EEAD494AC023    |
+| 18.10             | 0x55F6E0B9A62A538AA9E54216E3B9DCB88BD3DC6E0A0F23FBC1BC362183AD11B2    |
+| 18.20             | 0x8F851E9080283BB16D9421F6DE7B0E8E983481C35E5FC8AFADB02BA4CB9B59B9    |
+| 18.21             | 0xA1DA9C15884EC933DA9D7445140A5A5C668A18FAE35D248D5119254DB4EDA406    |
+| 18.30             | 0xFA2AABC586AC624BA24A9E69729DA9FEF8E10402B79B975A6081A561FE26C555    |
+| 18.40             | 0xFA2AABC586AC624BA24A9E69729DA9FEF8E10402B79B975A6081A561FE26C555    |
