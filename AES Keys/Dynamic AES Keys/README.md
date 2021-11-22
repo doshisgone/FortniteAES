@@ -40,12 +40,43 @@ AES Keys used to decrypt dynamic pak chunks on 8.40
 
 # 9.10 Dynamic Keys
 AES Keys used to decrypt dynamic pak chunks on 9.10
-
+| Pakchunk          | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 1000              | 0x0F00881F90F0FF5C1D892EA01469967B81D4803F6430E1338DBCCCFF542C84CE    |
+| 1001              | 0x0618F1DE6995C61BDA74AE5B913F96F512745C068C1DAC029DFF0C7D7229001C    |
+| 1002              | 0x09F84BFBF9FEA61045ED3578429C38421AAB77A8374BF1AADAC5399F41621FA0    |
+| 1003              | 0x4317442196DAD832D1C748D82A6F14A4893F2BA78AB9C95FBC349396530B2EB9    |
+| 1004              | 0x9D5D159B8342065F8C9065FCC22A9F16B834BE20EB88BDC8DB1738292EE7EDF8    |
+| 1005              | Gone                                                                  |
+| 1006              | 0xB4BADBE7ABD38E7DEE89921184753E458CA09A2ACBCC6825984748E03A9F2B83    |
+| 1007              | 0x79F5EEF8CA25A0D6D238E1F3F17E22A6F0F632148C5A944268439535C74B3EB6    |
+| 1008              | 0x2773777141F7334477BB2CE4134A952BF4A8BB10BF5FA544B3072859BE9588BF    |
+| 1009              | 0x11C98E284A8DBFFF54FABC37A0B65BEDEFB3E2068A5A57D1229750C0E0EF38AC    |
 
 
 # 9.40 Dynamic Keys
 AES Keys used to decrypt dynamic pak chunks on 9.40
+| Pakchunk          | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 1000              | 0xD4BF0BFA82AD48EB48C5B9B5C741DB0EDCEAB881FA087F2FBB53C5E22F2353EC    |
+| 1001              | 0x09BAEC750DAFA648157B439CE4794614B56457D6AB427F76F2F1D29CFA52C5B9    |
+| 1002              | Gone                                                                  |
+| 1003              | 0x024DD338CD22D0CABF298C5DED20E54AE4BBA39E5449A7FEBAB2FA5AA9E66A56    |
+| 1004              | 0x024DD338CD22D0CABF298C5DED20E54AE4BBA39E5449A7FEBAB2FA5AA9E66A56    |
+| 1005              | 0xECE4FECCE503AB54636092A9F204216D49D8CFFA89D7D22DD97E0776E3F9CBF8    |
+| 1006              | 0x8B01AFE3B6C9B65FD39BCA0919D9ED6BD68303CEA76342328C39895A3418750A    |
+| 1007              | 0xDE1F48C0ADAA40FF0F1D5B8ED5A648D42DF826B2712819D724E15C4834A3F7D3    |
 
+# 9.41 Dynamic Keys
+AES Keys used to decrypt dynamic pak chunks on 9.41
+| Pakchunk          | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 1000              | 0x09BAEC750DAFA648157B439CE4794614B56457D6AB427F76F2F1D29CFA52C5B9    |
+| 1001              | Gone                                                                  |
+| 1002              | 0x024DD338CD22D0CABF298C5DED20E54AE4BBA39E5449A7FEBAB2FA5AA9E66A56    |
+| 1003              | 0xECE4FECCE503AB54636092A9F204216D49D8CFFA89D7D22DD97E0776E3F9CBF8    |
+| 1004              | 0x8B01AFE3B6C9B65FD39BCA0919D9ED6BD68303CEA76342328C39895A3418750A    |
+| 1005              | 0xDE1F48C0ADAA40FF0F1D5B8ED5A648D42DF826B2712819D724E15C4834A3F7D3    |
 
 # 10.40 Dynamic Keys
 AES Keys used to decrypt dynamic pak chunks on 10.40
